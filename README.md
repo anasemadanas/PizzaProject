@@ -99,9 +99,3 @@ Through this project, I practiced:
 - GitHub: [Project Repository](https://github.com/anasemadanas/PizzaProject)
 
 ---
-
-## Demo Video
-
-[Youtube](https://youtu.be/ZSwYSMnNYpw)
-
----
