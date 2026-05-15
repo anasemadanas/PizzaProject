@@ -82,3 +82,8 @@ Through this project, the following concepts were practiced:
 - Implementing authentication and password hashing.
 - Managing dynamic pricing logic using dictionaries and enums.
 
+---
+
+## Demo Video
+
+[Youtube](https://youtu.be/ZSwYSMnNYpw)
