@@ -1,93 +1,102 @@
-# Project Pizza 🍕
+# 🍕 Project Pizza
 
-## Overview
-Project Pizza is a desktop application developed using **C# Windows Forms (.NET Framework)**.  
-The project simulates a pizza ordering system where users can create accounts, log in, customize pizzas, and generate an order bill.
+[![Project](https://img.shields.io/badge/Final-Project-orange?logo=visual-studio&logoColor=white)](https://github.com/anasemadanas/PizzaProject)
 
 ---
 
-## Main Features
+## 📌 Overview
+Project Pizza is a desktop application developed using **C# Windows Forms (.NET Framework)**.  
+It simulates a pizza ordering system where users can register, log in, customize pizzas, and generate a detailed bill.
 
-### 1. User Authentication
-- Login system with username and password.
-- Passwords are encrypted using **SHA-256 hashing** for better security.
-- Create new account feature.
-- Forgot password screen.
+---
 
-### 2. Pizza Customization
+## 🎥 Demo Video
+▶️ [Project Demo](https://youtu.be/ZSwYSMnNYpw)
+
+---
+
+## ✨ Main Features
+
+### 🔐 1. User Authentication
+- Login system with username and password
+- Secure password storage using **SHA-256 hashing**
+- Create new account feature
+- Forgot password screen
+
+---
+
+### 🍕 2. Pizza Customization
 Users can customize their pizza by selecting:
-- Pizza size:
-  - Small
-  - Medium
-  - Large
-- Crust type:
-  - Thin crust
-  - Thick crust
-- Toppings:
+- **Size:** Small / Medium / Large  
+- **Crust:** Thin / Thick  
+- **Toppings:**
   - Extra Cheese
   - Mushrooms
   - Olives
   - Onion
   - Tomatoes
-  - Green Peppers
+  - Green Peppers  
 
-### 3. Price Calculation
-- Dynamic price calculation based on:
+---
+
+### 💰 3. Price Calculation
+- Dynamic pricing based on:
   - Pizza size
   - Crust type
   - Selected toppings
-  - Number of pizzas
-- Total price updates automatically.
-
-### 4. Order Bill
-- Generates a bill containing:
-  - Pizza size
-  - Crust type
-  - Toppings
-  - Eat in / Take out
-  - Number of pizzas
-  - Final total price
-
-### 5. User Interface
-- Interactive Windows Forms UI.
-- Image animations and custom backgrounds.
-- User-friendly navigation between screens.
+  - Quantity
+- Automatic total price update
 
 ---
 
-## Technologies Used
+### 🧾 4. Order Bill
+Generates a complete bill including:
+- Pizza size
+- Crust type
+- Toppings
+- Eat in / Take out option
+- Quantity
+- Final price
+
+---
+
+### 🖥️ 5. User Interface
+- Interactive Windows Forms UI
+- Smooth navigation between screens
+- Custom backgrounds and images
+- User-friendly design
+
+---
+
+## 🛠️ Technologies Used
 - C#
 - Windows Forms (.NET Framework)
 - Object-Oriented Programming (OOP)
+- Event-Driven Programming
 - SHA-256 Encryption
 - Dictionaries & Enums
-- Event-Driven Programming
-
----
-
-## Project Structure
-- `LoginScreen.cs` → Login and authentication.
-- `PizzaScreen.cs` → Pizza customization and pricing.
-- `OrderBill.cs` → Bill generation.
-- `ScreenMenu.cs` → Main menu navigation.
-- `users.txt` → Stores usernames and hashed passwords.
-
----
-
-## Learning Outcomes
-Through this project, the following concepts were practiced:
-- Building desktop applications using Windows Forms.
-- Applying OOP concepts.
-- Handling events and UI controls.
-- Implementing authentication and password hashing.
-- Managing dynamic pricing logic using dictionaries and enums.
 
 ---
 
 | Screen | Preview |
 |--------|--------|
 | Login  | ![login](screenshots/login.png) |
-| Order  | ![menu](screenshots/order.png) |
+| Order  | ![menu](screenshots/menu.png) |
+
+---
+
+## 📚 Learning Outcomes
+Through this project, I practiced:
+- Windows Forms desktop development
+- Object-Oriented Programming (OOP)
+- Event-driven UI programming
+- Authentication & password hashing
+- Dynamic pricing logic using enums and dictionaries
+
+---
+
+## 👨‍💻 Author
+- GitHub: [Project Repository](https://github.com/anasemadanas/PizzaProject)
 
 ---
 
