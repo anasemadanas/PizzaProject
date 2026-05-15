@@ -84,6 +84,15 @@ Through this project, the following concepts were practiced:
 
 ---
 
+| Screen | Preview |
+|--------|--------|
+| Login  | ![login](screenshots/login.png) |
+| Order  | ![menu](screenshots/order.png) |
+
+---
+
 ## Demo Video
 
 [Youtube](https://youtu.be/ZSwYSMnNYpw)
+
+---
