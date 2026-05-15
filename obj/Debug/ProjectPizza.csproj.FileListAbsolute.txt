@@ -1,0 +1,15 @@
+C:\Users\D4RK\Downloads\week1\ProjectPizza\bin\Debug\ProjectPizza.exe.config
+C:\Users\D4RK\Downloads\week1\ProjectPizza\bin\Debug\ProjectPizza.exe
+C:\Users\D4RK\Downloads\week1\ProjectPizza\bin\Debug\ProjectPizza.pdb
+C:\Users\D4RK\Downloads\week1\ProjectPizza\obj\Debug\ProjectPizza.csproj.AssemblyReference.cache
+C:\Users\D4RK\Downloads\week1\ProjectPizza\obj\Debug\ProjectPizza.lnkCreateNewAccount.resources
+C:\Users\D4RK\Downloads\week1\ProjectPizza\obj\Debug\ProjectPizza.lnkForgotPassword.resources
+C:\Users\D4RK\Downloads\week1\ProjectPizza\obj\Debug\ProjectPizza.LoginScreen.resources
+C:\Users\D4RK\Downloads\week1\ProjectPizza\obj\Debug\ProjectPizza.Forms.ScreenMenu.resources
+C:\Users\D4RK\Downloads\week1\ProjectPizza\obj\Debug\ProjectPizza.Forms.OrderBill.resources
+C:\Users\D4RK\Downloads\week1\ProjectPizza\obj\Debug\ProjectPizza.PizzaScreen.resources
+C:\Users\D4RK\Downloads\week1\ProjectPizza\obj\Debug\ProjectPizza.Properties.Resources.resources
+C:\Users\D4RK\Downloads\week1\ProjectPizza\obj\Debug\ProjectPizza.csproj.GenerateResource.cache
+C:\Users\D4RK\Downloads\week1\ProjectPizza\obj\Debug\ProjectPizza.csproj.CoreCompileInputs.cache
+C:\Users\D4RK\Downloads\week1\ProjectPizza\obj\Debug\ProjectPizza.exe
+C:\Users\D4RK\Downloads\week1\ProjectPizza\obj\Debug\ProjectPizza.pdb
